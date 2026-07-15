@@ -1,4 +1,4 @@
-# 🧠 BrainBox
+# BrainBox App
 
 > [!NOTE]
 > This project was developed as part of my summer internship in July 2025.
